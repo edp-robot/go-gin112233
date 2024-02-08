@@ -1,0 +1,1 @@
+1. Application go-gin112233 has been successfully deployed!!
